@@ -12,32 +12,24 @@
 
 ---
 
-## 🛠️ Languages and Tools
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <!-- ajoute ici d'autres technos si besoin -->
+## 🛠️ Technologies & Tools
+<div style="display: flex; gap: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 </div>
 
 ---
 
 ## 🔗 Connect with me
-<div align="center">
-  <a href="https://www.instagram.com/mael.bcrt/">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" alt="Instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/mael-becret/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/mael.bcrt/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mael-becret/)
 
 ---
 
-## 🖼️ A Little Vibe
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mael&theme=radical)
+
+---
+
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdno4bmY5eXdjdXZqYjVqZGsyYWh2Z3FnNTBqODM0Z21iMmQwZWlpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pZGDZwmxOtEEo/giphy.gif" width="100%"/>
-
----
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mael&theme=radical)
