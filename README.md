@@ -40,4 +40,4 @@
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/mael/mael/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Maelb06/mael/blob/output/github-contribution-grid-snake.svg)
